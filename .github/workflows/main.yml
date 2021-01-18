@@ -14,4 +14,4 @@ jobs:
         server: ftp.canvivent.com.ar
         username: admin@canvivent.com.ar
         password: Solcito21
-        server-dir: "www"
+        server-dir: "www/"
